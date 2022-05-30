@@ -1,4 +1,4 @@
-Write a Python program that accepts a string and calculate the number of digits and letters. Go to the editor
+##Write a Python program that accepts a string and calculate the number of digits and letters. Go to the editor
 ##Sample Data : Python 3.2
 ##Expected Output :
 ##Letters 6
