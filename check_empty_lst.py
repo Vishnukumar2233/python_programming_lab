@@ -1,4 +1,4 @@
-Write a Python program to check a list is empty or not.
+##Write a Python program to check a list is empty or not.
 
 l=[]
 size=int(input("Enter the size of the list"))
