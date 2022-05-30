@@ -1,4 +1,4 @@
-write a python program to copy a list into other list
+##write a python program to copy a list into other list
 
 lis_1=[]
 size=int(input("Enter the size of the list"))
